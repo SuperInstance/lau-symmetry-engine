@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Mathematical symmetry system for PLATO rooms"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-symmetry-engine"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
